@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which country has the largest population?",
+    "options": ["India", "China", "USA", "Russia"],
+    "answer": "China"
+  },
+  {
+    "question": "What is the synonym of 'rapid'?",
+    "options": ["Slow", "Fast", "Angry", "Bright"],
+    "answer": "Fast"
+  }
+]
